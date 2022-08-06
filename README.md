@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/ashifulcse)
+[![MasterHead](https://www.exponapoli.com/wp-content/uploads/2018/01/Web-Developer.jpg)](https://github.com/ashifulcse)
 
 <h1 align="center">Hi 👋, I'm Ashiful Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
