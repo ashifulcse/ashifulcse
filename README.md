@@ -26,8 +26,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ashiful95) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashifulcse/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ashifulcse) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ashifulcse) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashiful.cse@gmail.com)
 <br>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ashiful"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashiful" /></a><</p><br><br>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashifulcse&show_icons=true&locale=en&layout=compact" alt="ashifulcse" /></p>
 
