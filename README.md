@@ -1,6 +1,11 @@
+<!-- Header Banner -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077ff&height=200&section=header&text=Ashiful%20Islam&fontSize=40&fontAlignY=35&animation=twinkling"/>
+</p>
+
 <!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Ashiful+Islam;Frontend+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Ashiful+Islam;Frontend+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications"/>
 </p>
 
 <h3 align="center">Frontend Developer from Bangladesh 🇧🇩</h3>
@@ -12,10 +17,10 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **Bengal Meat**
-- 🌱 Learning **React, Next.js, Advanced JavaScript**
+- 🌱 Learning **React, Next.js & Advanced JavaScript**
 - 💬 Ask me about **React JS**
 - 📫 Email: **ashiful.cse@gmail.com**
-- ⚡ Fun fact: **I love building beautiful UI**
+- ⚡ Passion: **Building modern UI & web apps**
 
 ---
 
@@ -57,9 +62,9 @@
 
 | Project | Description |
 |------|-------------|
-| 🥩 Bengal Meat | Modern meat ecommerce platform |
+| 🥩 Bengal Meat | Modern ecommerce meat platform |
 | 🌐 Portfolio Website | Personal developer portfolio |
-| 📱 React Dashboard | Admin dashboard using React |
+| 📊 React Dashboard | Admin dashboard built with React |
 
 ---
 
@@ -85,7 +90,7 @@
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -99,7 +104,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashifulcse&theme=onedark&row=1&column=7&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ashifulcse&theme=onedark&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -115,11 +120,19 @@
 
 ---
 
-# 👀 Profile Views
+# 👀 Profile Visitors
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ashifulcse&label=Profile+Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=ashifulcse&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<p align="center">
+
+💻 **"Code. Create. Innovate."**
 
 </p>
 
