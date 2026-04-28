@@ -61,11 +61,19 @@
 # 🚀 Featured Projects
 
 | Project | Description |
-|------|-------------|
-| 🥩 Bengal Meat | Modern ecommerce meat platform |
-| 🌐 Portfolio Website | Personal developer portfolio |
-| 📊 React Dashboard | Admin dashboard built with React |
-
+|---|---|
+| 🥩 **Bengal Meat** | A modern eCommerce platform for ordering fresh meat online. |
+| 🌐 **Portfolio Website** | A personal developer portfolio showcasing skills, projects, and experience. |
+| 📊 **React Dashboard** | A responsive admin dashboard built with React for data visualization and management. |
+| 🎓 **Education Agency CRM** | A CRM system for education agencies to manage students, leads, applications, and follow-ups. |
+| 🎫 **Ticket Management System** | A support system for creating, assigning, forwarding, and resolving customer tickets. |
+| 🛒 **eCommerce Website** | A full-featured online store with product listing, cart, checkout, and order management. |
+| 🍔 **Food Ordering System** | A food delivery platform where users can browse menus, place orders, and track delivery status. |
+| 🏢 **Office Task Management System** | A task tracking system for managing daily office work, team assignments, and progress logs. |
+| 📍 **Location Tracking App** | An application for tracking user locations and managing location-based activities. |
+| 📈 **SaaS Landing Website** | A modern landing page for promoting SaaS products, features, pricing, and customer benefits. |
+| 🔐 **Authentication System** | A secure login and registration system with role-based access control. |
+| 📅 **SLA Tracking System** | A system for monitoring ticket response time, due dates, and service-level performance. |
 ---
 
 # 📊 GitHub Stats
